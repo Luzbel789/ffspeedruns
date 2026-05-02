@@ -1,0 +1,1404 @@
+{
+  "VII": {
+    "name": "Final Fantasy VII",
+    "color": "#34ebff",
+    "platforms": {
+      "Console": {
+        "categories": [
+          {
+            "id": "any",
+            "name": "Any%",
+            "rules": "- Timed segment starts on the first frame of the title screen starting to fade after selecting \"New Game\" and ends on the first frame of the last damage number appearing on the final Sephiroth battle.\n- Only PS1 and PS2 consoles are allowed.\n- Turbo controller (or any kind of controller with a hardware advantage over the normal ones) is banned.\n- Hardware manipulation is banned (as opening the disk tray to skip cutscenes).",
+            "guides": [],
+            "runs": [
+              {
+                "runner": "Zheal",
+                "time": "5:12:53",
+                "date": "2025-03-06",
+                "vod": "https://www.youtube.com/watch?v=pxSDDXHYY8o",
+                "runnerUrl": "https://www.twitch.tv/zheal"
+              },
+              {
+                "runner": "Luzbel",
+                "runnerUrl": "https://www.twitch.tv/luzbel",
+                "time": "5:19:06",
+                "date": "2024-12-14",
+                "vod": "https://www.twitch.tv/videos/2326468623"
+              }
+            ],
+            "cutoffs": {}
+          },
+          {
+            "id": "any-restricted-no-slots",
+            "name": "Any% Restricted",
+            "rules": "- Ocean skip is banned.\n- Cait Sith's limit break \"Slots\" is banned.\n\n- Timed segment starts on the first frame of the title screen starting to fade after selecting \"New Game\" and ends on the first frame of the last damage number appearing on the final Sephiroth battle.\n- Only PS1 and PS2 consoles are allowed.\n- Turbo controller (or any kind of controller with a hardware advantage over the normal ones) is banned.\n- Hardware manipulation is banned (as opening the disk tray to skip cutscenes).",
+            "guides": [],
+            "runs": [
+              {
+                "runner": "Zheal",
+                "time": "6:30:58",
+                "date": "2026-04-21",
+                "vod": "#",
+                "runnerUrl": "https://www.twitch.tv/zheal"
+              },
+              {
+                "runner": "Luzbel",
+                "time": "6:31:40",
+                "date": "2023-10-01",
+                "vod": "https://www.youtube.com/watch?v=CaSMY5FYdSE",
+                "runnerUrl": "https://www.twitch.tv/luzbel"
+              },
+              {
+                "runner": "morningcraft_",
+                "time": "6:32:19",
+                "date": "2023-09-12",
+                "vod": "https://www.twitch.tv/videos/1924927299",
+                "runnerUrl": "https://www.twitch.tv/morningcraft_"
+              },
+              {
+                "runner": "thebroodles",
+                "time": "6:38:58",
+                "date": "2023-08-22",
+                "runnerUrl": "https://www.twitch.tv/thebroodles",
+                "vod": "https://www.twitch.tv/videos/1905734647"
+              },
+              {
+                "runner": "phek1200",
+                "time": "6:34:03",
+                "date": "2025-11-01",
+                "vod": "https://www.youtube.com/watch?v=TFWkOTMZvds",
+                "runnerUrl": "https://www.twitch.tv/phek1200"
+              },
+              {
+                "runner": "DashRetro",
+                "time": "6:34:11",
+                "date": "2025-11-13",
+                "vod": "https://www.youtube.com/watch?v=-_soUh02Iag",
+                "runnerUrl": "https://www.twitch.tv/DashRetro"
+              },
+              {
+                "runner": "Calebhart42",
+                "time": "6:38:12",
+                "date": "2025-03-13",
+                "vod": "https://www.youtube.com/watch?v=rsl8z9wZi5c",
+                "runnerUrl": "https://www.twitch.tv/calebhart42"
+              },
+              {
+                "runner": "DylWingo",
+                "time": "6:39:11",
+                "date": "2024-03-29",
+                "vod": "https://www.youtube.com/watch?v=JpHYyqfWYuA",
+                "runnerUrl": "https://www.twitch.tv/DylWingo"
+              },
+              {
+                "runner": "DummiBear",
+                "time": "6:40:32",
+                "date": "2023-01-29",
+                "vod": "https://www.youtube.com/watch?v=jw80qQCq-zs",
+                "runnerUrl": "https://www.twitch.tv/DummiBear"
+              },
+              {
+                "runner": "RJTheDestroyer",
+                "time": "6:41:49",
+                "date": "2023-02-18",
+                "vod": "https://www.twitch.tv/videos/1742576641",
+                "runnerUrl": "https://www.twitch.tv/rjthedestroyer"
+              },
+              {
+                "runner": "Neon_Genesis_",
+                "time": "6:42:37",
+                "date": "2025-09-15",
+                "vod": "https://www.youtube.com/watch?v=DBqG0lCPEFY",
+                "runnerUrl": "https://www.twitch.tv/neon_genesis_"
+              },
+              {
+                "runner": "d13sel",
+                "time": "6:47:31",
+                "date": "2021-11-25",
+                "vod": "https://www.twitch.tv/videos/1214654604",
+                "runnerUrl": "https://www.twitch.tv/d13sel"
+              },
+              {
+                "runner": "CarNage64",
+                "time": "6:47:42",
+                "date": "2023-08-07",
+                "vod": "https://www.youtube.com/watch?v=qSfGNqUp3DA",
+                "runnerUrl": "https://www.twitch.tv/carnage64"
+              },
+              {
+                "runner": "BruhzzerSlime",
+                "time": "6:49:58",
+                "date": "2025-04-24",
+                "vod": "https://www.youtube.com/watch?v=geJ9sxknePY",
+                "runnerUrl": "https://www.twitch.tv/bruhzzerslime"
+              },
+              {
+                "runner": "Jayrod316",
+                "time": "6:50:03",
+                "date": "2022-01-09",
+                "vod": "https://www.twitch.tv/videos/1258550607",
+                "runnerUrl": "https://www.twitch.tv/jayrod316"
+              },
+              {
+                "runner": "okamikaze",
+                "time": "6:53:11",
+                "date": "2023-07-13",
+                "vod": "https://www.youtube.com/watch?v=jC2m4x8sSg0",
+                "runnerUrl": "https://www.youtube.com/@okamikaze6135"
+              },
+              {
+                "runner": "JohnRossums",
+                "time": "6:53:47",
+                "date": "2022-02-10",
+                "vod": "https://www.youtube.com/watch?v=akkFiFCE5is",
+                "runnerUrl": "https://www.twitch.tv/johnrossums"
+              },
+              {
+                "runner": "limitbreakspeedruns",
+                "time": "6:54:52",
+                "date": "2022-01-26",
+                "vod": "https://www.youtube.com/watch?v=Iao2it9Hmok",
+                "runnerUrl": "https://www.twitch.tv/limitbreakspeedruns"
+              },
+              {
+                "runner": "Davesterio",
+                "time": "6:57:44",
+                "date": "2021-12-14",
+                "vod": "https://www.youtube.com/watch?v=CqRTsmmtTn0",
+                "runnerUrl": "https://www.twitch.tv/davesterio"
+              },
+              {
+                "runner": "zCWiL",
+                "time": "6:57:54",
+                "date": "2023-01-09",
+                "vod": "#",
+                "runnerUrl": "https://www.twitch.tv/zcwil"
+              },
+              {
+                "runner": "KekGs",
+                "time": "7:12:09",
+                "date": "2021-05-02",
+                "vod": "https://www.youtube.com/watch?v=BRRnEO38nYw",
+                "runnerUrl": "https://www.twitch.tv/kekgs"
+              }
+            ],
+            "cutoffs": {}
+          },
+          {
+            "id": "no-major-skips",
+            "name": "No Major Skips NoSlots",
+            "rules": "- The following skips are banned:\nGuard Skip / Kalm Skip / Ocean Skip / Cosmo Canyon Skip / Return Midgar Skip / Midgar Turks Skip.\n- Cait Sith's limit break \"Slots\" is banned.\n\n- Timed segment starts on the first frame of the title screen starting to fade after selecting \"New Game\" and ends on the first frame of the last damage number appearing on the final Sephiroth battle.\n- Only PS1 and PS2 consoles are allowed.\n- Turbo controller (or any kind of controller with a hardware advantage over the normal ones) is banned.\n- Hardware manipulation is banned (as opening the disk tray to skip cutscenes).",
+            "guides": [],
+            "runs": [
+              {
+                "runner": "Zheal",
+                "time": "7:38:15",
+                "date": "2024-08-20",
+                "vod": "https://www.youtube.com/watch?v=HaYOuhGiy3o",
+                "runnerUrl": "https://twitch.tv/zheal"
+              },
+              {
+                "runner": "phek1200",
+                "time": "7:44:44",
+                "date": "2025-11-16",
+                "vod": "https://www.youtube.com/watch?v=z_85x0G_pxI",
+                "runnerUrl": "https://www.twitch.tv/phek1200"
+              },
+              {
+                "runner": "Jayrod316",
+                "time": "7:46:43",
+                "date": "2025-04-07",
+                "vod": "https://www.youtube.com/watch?v=KWSm1z6StO0",
+                "runnerUrl": "https://www.twitch.tv/jayrod316"
+              },
+              {
+                "runner": "cornfed69",
+                "time": "7:49:44",
+                "date": "2024-06-17",
+                "vod": "https://www.youtube.com/watch?v=yf7H77v0pWM",
+                "runnerUrl": "https://www.twitch.tv/cornfed69"
+              },
+              {
+                "runner": "JohnRossums",
+                "time": "7:54:16",
+                "date": "2022-09-10",
+                "vod": "https://www.youtube.com/watch?v=X3lVE2BQgRc",
+                "runnerUrl": "https://www.twitch.tv/johnrossums"
+              },
+              {
+                "runner": "earmouth",
+                "time": "7:54:47",
+                "date": "2023-08-29",
+                "vod": "https://www.twitch.tv/videos/1912478298",
+                "runnerUrl": "https://www.twitch.tv/earmouth"
+              },
+              {
+                "runner": "limitbreakspeedruns",
+                "time": "7:55:12",
+                "date": "2022-04-27",
+                "vod": "https://www.twitch.tv/videos/1467668371",
+                "runnerUrl": "https://www.twitch.tv/limitbreakspeedruns"
+              },
+              {
+                "runner": "DummiBeaR",
+                "time": "7:59:36",
+                "date": "2022-05-26",
+                "vod": "#",
+                "runnerUrl": "https://www.twitch.tv/DummiBeaR"
+              },
+              {
+                "runner": "CarNage64",
+                "time": "8:02:40",
+                "date": "2024-02-08",
+                "vod": "https://www.youtube.com/watch?v=dkUOxJqihxs",
+                "runnerUrl": "https://www.twitch.tv/CarNage64"
+              },
+              {
+                "runner": "Toast_Matt",
+                "time": "8:10:48",
+                "date": "2022-04-10",
+                "vod": "https://www.youtube.com/watch?v=inG17zMdy08",
+                "runnerUrl": "https://www.twitch.tv/toast_matt"
+              }
+            ],
+            "cutoffs": {}
+          },
+          {
+            "id": "100",
+            "name": "100% NoSlots",
+            "rules": "- 100% definition:  https://docs.google.com/document/d/1Q13sJFgGpeXigbZdY7f-dLYuhx4LcPYIyYvsenfYJY0/edit\n- Cait Sith's limit break \"Slots\" is banned.\n\n- Timed segment starts on the first frame of the title screen starting to fade after selecting \"New Game\" and ends on the first frame of the last damage number appearing on the final Sephiroth battle.\n- Only PS1 and PS2 consoles are allowed.\n- Turbo controller (or any kind of controller with a hardware advantage over the normal ones) is banned.\n- Hardware manipulation is banned (as opening the disk tray to skip cutscenes).",
+            "guides": [],
+            "runs": [
+              {
+                "runner": "DashRetro",
+                "time": "15:46:02",
+                "date": "2026-01-10",
+                "vod": "https://www.youtube.com/watch?v=KBfZDK0Qc8Y",
+                "runnerUrl": "https://www.twitch.tv/DashRetro"
+              },
+              {
+                "runner": "MonetaryDragon",
+                "time": "15:59:58",
+                "date": "2023-08-11",
+                "vod": "https://www.youtube.com/watch?v=n7RNU8rRfrY",
+                "runnerUrl": "https://www.twitch.tv/monetarydragon"
+              },
+              {
+                "runner": "iblink22",
+                "time": "16:45:47",
+                "date": "2023-07-02",
+                "vod": "https://www.youtube.com/watch?v=uk_7re2Zhb0",
+                "runnerUrl": "https://www.twitch.tv/iblink22"
+              }
+            ],
+            "cutoffs": {}
+          }
+        ]
+      },
+      "PC": {
+        "categories": [
+          {
+            "id": "any",
+            "name": "Any%",
+            "rules": "- Timed segment starts on the first frame of the title screen starting to fade after selecting \"New Game\" and ends on the first frame of the last damage number appearing on the final Sephiroth battle.\n- The run must be performed on the latest Steam version of the game with the latest version of the SpeedSquare mod installed.\nIn SpeedSquare, \"Inject Battle RNG Seed: Random Seed\" must be selected. The yellow text injected by SpeedSquare that appears on the title screen must be visible, unobstructed, and readable in the submitted video every time the title screen is viewed during or immediately before the run.\n- You must hard reset (close and re-open the game) immediately before the run without starting a New Game or loading a file beforehand.\n- Turbo/macros are banned.\n- The use of the Character Booster through Square Enix's online service is prohibited.\n\n- SpeedSquare download and guide here: https://www.speedrun.com/ff7/news/5x1mqzx2",
+            "guides": [],
+            "runs": [
+              {
+                "runner": "zergu12",
+                "time": "1:32:39",
+                "date": "2025-03-20",
+                "vod": "https://www.twitch.tv/videos/2410068576",
+                "runnerUrl": "https://www.twitch.tv/zergu12"
+              },
+              {
+                "runner": "themattdavis_",
+                "time": "1:33:11",
+                "date": "2025-03-14",
+                "vod": "https://www.youtube.com/watch?v=X1BKVZlSW_Q",
+                "runnerUrl": "https://www.twitch.tv/themattdavis_"
+              },
+              {
+                "runner": "asleepyjake",
+                "time": "1:34:23",
+                "date": "2025-04-21",
+                "vod": "https://www.twitch.tv/videos/2438163830",
+                "runnerUrl": "https://www.twitch.tv/asleepyjake"
+              },
+              {
+                "runner": "death_unites_us",
+                "time": "1:35:25",
+                "date": "2025-04-10",
+                "vod": "https://www.youtube.com/watch?v=iKhCfFoUEFE",
+                "runnerUrl": "https://www.twitch.tv/death_unites_us"
+              },
+              {
+                "runner": "DabestormTTV",
+                "time": "1:35:41",
+                "date": "2023-04-08",
+                "vod": "https://www.youtube.com/watch?v=fhYMlJorWlI",
+                "runnerUrl": "https://www.twitch.tv/dabestormttv"
+              },
+              {
+                "runner": "Franbs3",
+                "time": "1:38:04",
+                "date": "2025-11-23",
+                "vod": "https://www.youtube.com/watch?v=ptSVae9fJcA",
+                "runnerUrl": "https://www.twitch.tv/Franbs3"
+              },
+              {
+                "runner": "Busutai",
+                "time": "1:38:53",
+                "date": "2022-07-12",
+                "vod": "https://www.twitch.tv/videos/1529346556",
+                "runnerUrl": "https://www.twitch.tv/busutai"
+              },
+              {
+                "runner": "Phrayse",
+                "time": "1:38:58",
+                "date": "2022-07-03",
+                "vod": "https://www.twitch.tv/videos/1521832206",
+                "runnerUrl": "https://www.twitch.tv/phrayse"
+              }
+            ],
+            "cutoffs": {}
+          }
+        ]
+      }
+    }
+  },
+  "VIII": {
+    "name": "Final Fantasy VIII",
+    "color": "#b58cff",
+    "platforms": {
+      "Console": {
+        "categories": [
+          {
+            "id": "any",
+            "name": "Any%",
+            "rules": "- Timed segment starts on the first frame of the title screen starting to fade after selecting \"New Game\" and ends on the first frame of the last damage number appearing on the final hit on Ultimecia.\n- Only PS1 and PS2 consoles are allowed.\n- Turbo controller (or any kind of controller with a hardware advantage over the normal ones) is banned.\n- Hardware manipulation is banned (as opening the disk tray to skip cutscenes).",
+            "guides": [],
+            "runs": [
+              {
+                "runner": "Luzbel",
+                "time": "8:17:54",
+                "date": "2026-02-19",
+                "vod": "https://www.youtube.com/watch?v=N_FwJknhGw4",
+                "runnerUrl": "https://www.twitch.tv/luzbel"
+              },
+              {
+                "runner": "Cordellium",
+                "time": "8:18:20",
+                "date": "2025-09-23",
+                "vod": "https://www.youtube.com/watch?v=emtNzBXrMGo",
+                "runnerUrl": "https://www.twitch.tv/Cordellium"
+              },
+              {
+                "runner": "syoTV",
+                "time": "8:18:26",
+                "date": "2025-09-18",
+                "vod": "https://www.youtube.com/watch?v=Qc92voQUNcU",
+                "runnerUrl": "https://www.twitch.tv/syotv"
+              },
+              {
+                "runner": "realalphagamer",
+                "time": "8:22:31",
+                "date": "2020-05-28",
+                "vod": "#",
+                "runnerUrl": "https://www.twitch.tv/realalphagamer"
+              },
+              {
+                "runner": "Zheal",
+                "time": "8:22:37",
+                "date": "2021-09-17",
+                "vod": "#",
+                "runnerUrl": "https://www.twitch.tv/zheal"
+              },
+              {
+                "runner": "Shug_ssb",
+                "time": "8:26:51",
+                "date": "2020-06-30",
+                "vod": "https://www.youtube.com/watch?v=bTsC8BYDbmU",
+                "runnerUrl": "https://www.twitch.tv/shug_ssb"
+              },
+              {
+                "runner": "Muttski",
+                "time": "8:27:47",
+                "date": "",
+                "vod": "https://www.twitch.tv/videos/510826001",
+                "runnerUrl": "https://www.twitch.tv/muttski"
+              },
+              {
+                "runner": "KekGs",
+                "time": "8:30:31",
+                "date": "2022-03-20",
+                "vod": "https://www.twitch.tv/videos/1431113133",
+                "runnerUrl": "https://www.twitch.tv/kekgs"
+              },
+              {
+                "runner": "ajneb174",
+                "time": "8:29:06",
+                "date": "2016-02-25",
+                "vod": "#",
+                "runnerUrl": "https://www.twitch.tv/ajneb174"
+              },
+              {
+                "runner": "bramhallthefifth",
+                "time": "8:33:16",
+                "date": "2021-05-17",
+                "vod": "https://www.twitch.tv/videos/1025535690",
+                "runnerUrl": "https://www.twitch.tv/bramhallthefifth"
+              },
+              {
+                "runner": "CaracarnVi",
+                "time": "8:34:18",
+                "date": "2014-05-11",
+                "vod": "https://www.twitch.tv/videos/49322428",
+                "runnerUrl": "https://www.twitch.tv/caracarnvi"
+              },
+              {
+                "runner": "bodcap",
+                "time": "8:34:36",
+                "date": "2022-01-23",
+                "vod": "https://www.twitch.tv/videos/1273373352",
+                "runnerUrl": "https://www.twitch.tv/bodcap"
+              },
+              {
+                "runner": "Goranaldo",
+                "time": "8:36:03",
+                "date": "2017-11-12",
+                "vod": "https://www.twitch.tv/videos/200797499",
+                "runnerUrl": "https://www.twitch.tv/goranaldo"
+              },
+              {
+                "runner": "Soppanaama",
+                "time": "8:36:32",
+                "date": "2019-01-25",
+                "vod": "https://www.twitch.tv/videos/369316721",
+                "runnerUrl": "https://www.twitch.tv/soppanaama"
+              },
+              {
+                "runner": "crocogoat",
+                "time": "8:37:38",
+                "date": "2014-04-10",
+                "vod": "https://www.twitch.tv/videos/47250585",
+                "runnerUrl": "https://www.twitch.tv/crocogoat"
+              },
+              {
+                "runner": "Egggdar",
+                "time": "8:38:42",
+                "date": "2020-02-26",
+                "vod": "https://www.twitch.tv/videos/558378915",
+                "runnerUrl": "https://www.twitch.tv/egggdar"
+              },
+              {
+                "runner": "septerna",
+                "time": "8:39:31",
+                "date": "2021-11-19",
+                "vod": "#",
+                "runnerUrl": "https://www.twitch.tv/septerna"
+              },
+              {
+                "runner": "Plm__",
+                "time": "8:40:00",
+                "date": "2015-05-24",
+                "vod": "#",
+                "runnerUrl": "https://www.twitch.tv/plm__"
+              },
+              {
+                "runner": "chowzter",
+                "time": "8:40:32",
+                "date": "2017-05-02",
+                "vod": "#",
+                "runnerUrl": "https://www.twitch.tv/chowzter"
+              },
+              {
+                "runner": "Tojju",
+                "time": "8:40:50",
+                "date": "2019-10-13",
+                "vod": "#",
+                "runnerUrl": "https://www.twitch.tv/tojju"
+              },
+              {
+                "runner": "Davesterio",
+                "time": "8:42:22",
+                "date": "2019-08-30",
+                "vod": "https://www.youtube.com/watch?v=hCLkfLpEWKY",
+                "runnerUrl": "https://www.twitch.tv/davesterio"
+              },
+              {
+                "runner": "FFgamer86",
+                "time": "8:42:25",
+                "date": "2013-12-24",
+                "vod": "https://www.twitch.tv/videos/46002803",
+                "runnerUrl": "https://www.twitch.tv/ffgamer86"
+              },
+              {
+                "runner": "Waterwurm",
+                "time": "8:43:17",
+                "date": "2023-02-06",
+                "vod": "https://www.youtube.com/watch?v=NfaNV77kVyc",
+                "runnerUrl": "https://www.youtube.com/@waterwurm-111"
+              },
+              {
+                "runner": "Metako",
+                "time": "8:44:25",
+                "date": "2015-08-31",
+                "vod": "#",
+                "runnerUrl": "https://www.twitch.tv/metako"
+              },
+              {
+                "runner": "Deathtome",
+                "time": "8:45:16",
+                "date": "2014-08-10",
+                "vod": "https://www.youtube.com/watch?v=HHUHX6asdGw",
+                "runnerUrl": "https://www.youtube.com/channel/UC3of5_OhvTZc0hyBSFadsmA"
+              },
+              {
+                "runner": "d13sel",
+                "time": "8:45:22",
+                "date": "2022-11-30",
+                "vod": "#",
+                "runnerUrl": "https://www.twitch.tv/d13sel"
+              },
+              {
+                "runner": "Dsharper",
+                "time": "8:45:39",
+                "date": "2015-03-06",
+                "vod": "https://www.twitch.tv/videos/41075186",
+                "runnerUrl": "https://www.twitch.tv/dsharper"
+              },
+              {
+                "runner": "gef87",
+                "time": "8:45:48",
+                "date": "2018-04-23",
+                "vod": "https://www.youtube.com/watch?v=iCsI5m3S6Dg",
+                "runnerUrl": "https://www.twitch.tv/gef87"
+              },
+              {
+                "runner": "Chelney",
+                "time": "8:46:54",
+                "date": "2016-01-03",
+                "vod": "https://www.twitch.tv/videos/33499949",
+                "runnerUrl": "https://www.twitch.tv/chelney"
+              },
+              {
+                "runner": "thekittytoebeans",
+                "time": "8:48:16",
+                "date": "2026-04-10",
+                "vod": "https://www.youtube.com/watch?v=d3z-LNKsGUg",
+                "runnerUrl": "https://www.twitch.tv/thekittytoebeans"
+              },
+              {
+                "runner": "Vultus",
+                "time": "8:48:20",
+                "date": "2019-08-09",
+                "vod": "#",
+                "runnerUrl": "https://www.twitch.tv/vultus"
+              },
+              {
+                "runner": "Bizkit047",
+                "time": "8:49:10",
+                "date": "2013-02-16",
+                "vod": "#",
+                "runnerUrl": "https://www.twitch.tv/bizkit047"
+              },
+              {
+                "runner": "AzStrocyte",
+                "time": "8:52:53",
+                "date": "2014-09-29",
+                "vod": "https://www.twitch.tv/videos/47639092",
+                "runnerUrl": "https://www.twitch.tv/azstrocyte"
+              },
+              {
+                "runner": "ChuMogpo",
+                "time": "8:55:55",
+                "date": "2021-09-29",
+                "vod": "https://www.youtube.com/watch?v=R1mFPf8owXY",
+                "runnerUrl": "https://www.youtube.com/@chumogpo4928"
+              }
+            ],
+            "cutoffs": {}
+          },
+          {
+            "id": "any-turbo",
+            "name": "Any% Turbo",
+            "rules": "- Timed segment starts on the first frame of the title screen starting to fade after selecting \"New Game\" and ends on the first frame of the last damage number appearing on the final hit on Ultimecia.\n- Turbo controller is allowed.\n- Only PS1 and PS2 consoles are allowed.\n- Hardware manipulation is banned (as opening the disk tray to skip cutscenes).",
+            "guides": [],
+            "runs": [
+              {
+                "runner": "Cordellium",
+                "time": "8:15:02",
+                "date": "2025-09-20",
+                "vod": "https://www.youtube.com/watch?v=_Y3mh0JJgJE",
+                "runnerUrl": "https://www.twitch.tv/Cordellium"
+              },
+              {
+                "runner": "Luzbel",
+                "time": "8:16:02",
+                "date": "2023-06-07",
+                "vod": "https://www.youtube.com/watch?v=KLWPg1X-dN4",
+                "runnerUrl": "https://www.twitch.tv/luzbel"
+              },
+              {
+                "runner": "awesomeWaves",
+                "time": "8:18:43",
+                "date": "2023-11-08",
+                "vod": "https://www.youtube.com/watch?v=thu6mTkffYY",
+                "runnerUrl": "https://www.twitch.tv/awesomeWaves"
+              },
+              {
+                "runner": "Kiitoksia",
+                "time": "8:19:29",
+                "date": "2022-02-22",
+                "vod": "https://www.youtube.com/watch?v=DujX_8VsIWI",
+                "runnerUrl": "https://www.twitch.tv/kiitoksia"
+              },
+              {
+                "runner": "thebroodles",
+                "time": "8:19:38",
+                "date": "2024-03-21",
+                "vod": "#",
+                "runnerUrl": "https://www.twitch.tv/thebroodles"
+              },
+              {
+                "runner": "Okamikaze",
+                "time": "8:35:24",
+                "date": "2023-10-23",
+                "vod": "https://www.youtube.com/watch?v=74-wrw55c0c",
+                "runnerUrl": "https://www.twitch.tv/Okamikaze"
+              },
+              {
+                "runner": "d13sel",
+                "time": "8:35:38",
+                "date": "2022-12-11",
+                "vod": "#",
+                "runnerUrl": "https://www.twitch.tv/d13sel"
+              },
+              {
+                "runner": "quetzington",
+                "time": "8:50:49",
+                "date": "2022-05-09",
+                "vod": "https://www.twitch.tv/videos/1479026382",
+                "runnerUrl": "https://www.twitch.tv/quetzington"
+              }
+            ],
+            "cutoffs": {}
+          },
+          {
+            "id": "any-jp",
+            "name": "Any% JP Turbo",
+            "rules": "- Timed segment starts on the first frame of the title screen starting to fade after selecting \"New Game\" and ends on the first frame of the last damage number appearing on the final hit on Ultimecia.\n- Turbo controller is allowed.\n- Only PS1 and PS2 consoles are allowed.\n- Hardware manipulation is banned (as opening the disk tray to skip cutscenes).",
+            "guides": [],
+            "runs": [
+              {
+                "runner": "syoTV",
+                "time": "8:08:43",
+                "date": "2026-04-27",
+                "vod": "#",
+                "runnerUrl": "https://www.twitch.tv/syotv"
+              },
+              {
+                "runner": "Luzbel",
+                "time": "8:08:44",
+                "date": "2026-03-09",
+                "vod": "https://www.youtube.com/watch?v=rH4icaDh5Ak",
+                "runnerUrl": "https://www.twitch.tv/luzbel"
+              },
+              {
+                "runner": "Cordellium",
+                "time": "8:08:59",
+                "date": "2025-10-14",
+                "vod": "https://www.youtube.com/watch?v=cliI_J1M9EM",
+                "runnerUrl": "https://www.twitch.tv/Cordellium"
+              },
+              {
+                "runner": "ぴんぐ値",
+                "time": "8:09:48",
+                "date": "2016-10-29",
+                "vod": "https://www.youtube.com/watch?v=f_GBBcDyLbk",
+                "runnerUrl": "https://www.twitch.tv/pingval"
+              },
+              {
+                "runner": "ギル",
+                "time": "8:11:56",
+                "date": "2015-08-28",
+                "vod": "#",
+                "runnerUrl": "https://www.twitch.tv/giru2525"
+              },
+              {
+                "runner": "CaracarnVi",
+                "time": "8:14:00",
+                "date": "2015-09-19",
+                "vod": "https://www.youtube.com/watch?v=lGj2UGqrbig",
+                "runnerUrl": "https://www.twitch.tv/caracarnvi"
+              },
+              {
+                "runner": "KekGs",
+                "time": "8:16:13",
+                "date": "2022-05-15",
+                "vod": "https://www.twitch.tv/videos/1484574591",
+                "runnerUrl": "https://www.twitch.tv/kekgs"
+              },
+              {
+                "runner": "stiylemagnus",
+                "time": "8:17:35",
+                "date": "2015-08-20",
+                "vod": "https://www.youtube.com/watch?v=q2-R03drdaM",
+                "runnerUrl": "https://www.twitch.tv/stiylemagnus"
+              },
+              {
+                "runner": "awesomeWaves",
+                "time": "8:17:21",
+                "date": "2023-12-02",
+                "vod": "https://www.youtube.com/watch?v=Ovb4EOPkbo4",
+                "runnerUrl": "https://www.twitch.tv/awesomeWaves"
+              },
+              {
+                "runner": "emanon2525",
+                "time": "8:22:47",
+                "date": "2013-07-14",
+                "vod": "https://www.twitch.tv/videos/50216272",
+                "runnerUrl": "https://www.twitch.tv/emanon2525"
+              },
+              {
+                "runner": "Deathtome",
+                "time": "8:30:42",
+                "date": "2017-03-31",
+                "vod": "https://www.youtube.com/watch?v=VLOKZSmaqJA",
+                "runnerUrl": "https://www.youtube.com/channel/UC3of5_OhvTZc0hyBSFadsmA"
+              }
+            ],
+            "cutoffs": {}
+          }
+        ]
+      }
+    }
+  },
+  "IX": {
+    "name": "Final Fantasy IX",
+    "color": "#ffb35b",
+    "platforms": {
+      "Console": {
+        "categories": [
+          {
+            "id": "any",
+            "name": "Any%",
+            "rules": "- Timed segment starts on the first frame of the title screen starting to fade after selecting \"New Game\" and ends on the first frame of the last damage number appearing on the final hit on Necron.\n- Only PS1 and PS2 consoles are allowed.\n- Turbo controller (or any kind of controller with a hardware advantage over the normal ones) is banned.\n- Hardware manipulation is banned (as opening the disk tray to skip cutscenes).",
+            "guides": [],
+            "runs": [
+              {
+                "runner": "thebroodles",
+                "time": "8:34:46",
+                "date": "2025-10-25",
+                "vod": "https://www.youtube.com/watch?v=D5ub-UN5xJ0",
+                "runnerUrl": "https://www.twitch.tv/thebroodles"
+              },
+              {
+                "runner": "bombom",
+                "time": "8:37:31",
+                "date": "2021-07-25",
+                "vod": "https://www.youtube.com/watch?v=eS6yjiknpVc",
+                "runnerUrl": "https://www.twitch.tv/bombom"
+              },
+              {
+                "runner": "Luzbel",
+                "time": "8:39:13",
+                "date": "2019-10-26",
+                "vod": "https://www.youtube.com/watch?v=4LdSdlA-GH8",
+                "runnerUrl": "https://www.twitch.tv/luzbel"
+              },
+              {
+                "runner": "Misut0",
+                "time": "8:39:23",
+                "date": "2019-05-20",
+                "vod": "https://www.twitch.tv/videos/427429572",
+                "runnerUrl": "https://www.twitch.tv/misut0"
+              },
+              {
+                "runner": "djeez",
+                "time": "8:40:14",
+                "date": "2021-10-06",
+                "vod": "https://www.youtube.com/watch?v=UmUX5uY1Za8",
+                "runnerUrl": "https://www.twitch.tv/djeez"
+              },
+              {
+                "runner": "fhelwanger",
+                "time": "8:41:28",
+                "date": "2021-09-19",
+                "runnerUrl": "https://www.twitch.tv/fhelwanger",
+                "vod": "#"
+              },
+              {
+                "runner": "PeteSwanson",
+                "time": "8:43:06",
+                "date": "2022-10-22",
+                "vod": "#",
+                "runnerUrl": "https://www.twitch.tv/peteswanson"
+              },
+              {
+                "runner": "Salty__sal",
+                "time": "8:43:12",
+                "date": "2022-08-25",
+                "vod": "https://www.twitch.tv/videos/1572462865",
+                "runnerUrl": "https://www.twitch.tv/salty__sal"
+              },
+              {
+                "runner": "morningcraft_",
+                "time": "8:45:36",
+                "date": "2023-04-13",
+                "vod": "#",
+                "runnerUrl": "https://www.twitch.tv/morningcraft_"
+              },
+              {
+                "runner": "Zheal",
+                "time": "8:42:56",
+                "date": "2024-03-12",
+                "vod": "#",
+                "runnerUrl": "https://www.twitch.tv/zheal"
+              },
+              {
+                "runner": "Muttski",
+                "time": "8:47:50",
+                "date": "2021-07-04",
+                "vod": "https://www.twitch.tv/videos/1077012145",
+                "runnerUrl": "https://www.twitch.tv/muttski"
+              },
+              {
+                "runner": "swed7",
+                "time": "8:49:39",
+                "date": "2020-05-23",
+                "runnerUrl": "https://www.twitch.tv/swed7"
+              },
+              {
+                "runner": "CaracarnVi",
+                "time": "8:51:15",
+                "date": "2019-02-19",
+                "vod": "#",
+                "runnerUrl": "https://www.twitch.tv/caracarnvi"
+              },
+              {
+                "runner": "eLmaGus",
+                "time": "8:49:30",
+                "date": "2025-08-02",
+                "vod": "https://www.youtube.com/watch?v=UKqC9IB-ioM",
+                "runnerUrl": "https://www.twitch.tv/eLmaGus"
+              },
+              {
+                "runner": "frownee",
+                "time": "8:53:47",
+                "date": "2016-08-24",
+                "vod": "https://www.twitch.tv/videos/85434616",
+                "runnerUrl": "https://www.twitch.tv/frownee"
+              },
+              {
+                "runner": "soma_sr",
+                "time": "8:53:47",
+                "date": "2018-12-29",
+                "vod": "https://www.twitch.tv/videos/355659110",
+                "runnerUrl": "https://www.twitch.tv/soma_sr"
+              },
+              {
+                "runner": "Chuckolator",
+                "time": "8:55:19",
+                "date": "2015-01-24",
+                "vod": "https://www.twitch.tv/videos/6563429",
+                "runnerUrl": "https://www.twitch.tv/chuckolator"
+              },
+              {
+                "runner": "Machie",
+                "time": "8:55:57",
+                "date": "2023-06-13",
+                "vod": "https://www.youtube.com/watch?v=RwNjMkwcakg",
+                "runnerUrl": "https://www.twitch.tv/machie"
+              },
+              {
+                "runner": "Eryment",
+                "time": "8:56:24",
+                "date": "2019-07-27",
+                "vod": "https://www.youtube.com/watch?v=Py3VEd3HmlM",
+                "runnerUrl": "https://www.twitch.tv/eryment"
+              },
+              {
+                "runner": "Tojju",
+                "time": "8:57:27",
+                "date": "2019-02-03",
+                "vod": "#",
+                "runnerUrl": "https://www.twitch.tv/tojju"
+              },
+              {
+                "runner": "Metako",
+                "time": "8:58:10",
+                "date": "2017-12-21",
+                "vod": "https://www.twitch.tv/videos/211480727",
+                "runnerUrl": "https://www.twitch.tv/metako"
+              },
+              {
+                "runner": "OddMog",
+                "time": "8:58:24",
+                "date": "2021-01-04",
+                "vod": "https://www.youtube.com/watch?v=yIZUCxq9snU",
+                "runnerUrl": "https://www.twitch.tv/oddmog"
+              },
+              {
+                "runner": "d13sel",
+                "time": "8:59:23",
+                "date": "2022-11-20",
+                "vod": "https://www.twitch.tv/videos/1658247810",
+                "runnerUrl": "https://www.twitch.tv/d13sel"
+              },
+              {
+                "runner": "blackdeathdoom",
+                "time": "8:59:53",
+                "date": "2020-04-19",
+                "vod": "#",
+                "runnerUrl": "https://www.twitch.tv/blackdeathdoom"
+              },
+              {
+                "runner": "mythikdawn",
+                "time": "9:00:23",
+                "date": "2021-02-15",
+                "vod": "https://www.twitch.tv/videos/915261403",
+                "runnerUrl": "https://www.twitch.tv/mythikdawn"
+              },
+              {
+                "runner": "HollowBrew",
+                "time": "9:00:53",
+                "date": "2016-03-26",
+                "vod": "https://www.twitch.tv/videos/56880078",
+                "runnerUrl": "https://www.twitch.tv/hollowbrew"
+              },
+              {
+                "runner": "GoldenBoko",
+                "time": "9:01:45",
+                "date": "2017-04-18",
+                "vod": "https://www.twitch.tv/videos/136397785",
+                "runnerUrl": "https://www.twitch.tv/goldenboko"
+              },
+              {
+                "runner": "Kaiine",
+                "time": "9:02:07",
+                "date": "2016-06-04",
+                "vod": "#",
+                "runnerUrl": "https://www.twitch.tv/kaiine"
+              },
+              {
+                "runner": "KaWaiNL",
+                "time": "9:02:47",
+                "date": "2016-01-16",
+                "vod": "https://www.twitch.tv/videos/35731552",
+                "runnerUrl": "https://www.twitch.tv/kawainl"
+              },
+              {
+                "runner": "Mrzwanzig",
+                "time": "9:02:48",
+                "date": "2015-04-09",
+                "vod": "https://www.twitch.tv/videos/40687622",
+                "runnerUrl": "https://www.twitch.tv/mrzwanzig"
+              },
+              {
+                "runner": "dyHusk",
+                "time": "9:03:21",
+                "date": "2020-04-08",
+                "vod": "https://www.twitch.tv/videos/586504278",
+                "runnerUrl": "https://www.twitch.tv/dyhusk"
+              },
+              {
+                "runner": "Ayymart",
+                "time": "9:03:22",
+                "date": "2021-04-02",
+                "vod": "#",
+                "runnerUrl": "https://www.twitch.tv/ayymart"
+              },
+              {
+                "runner": "monkeyslinger123",
+                "time": "9:03:47",
+                "date": "2022-08-21",
+                "vod": "https://www.twitch.tv/videos/1569132226",
+                "runnerUrl": "https://www.twitch.tv/monkeyslinger123"
+              },
+              {
+                "runner": "Cloudyfinal",
+                "time": "9:04:40",
+                "date": "2018-05-24",
+                "vod": "https://www.twitch.tv/videos/265083345",
+                "runnerUrl": "https://www.twitch.tv/cloudyfinal"
+              },
+              {
+                "runner": "Faildude",
+                "time": "9:05:52",
+                "date": "2020-05-12",
+                "vod": "https://www.twitch.tv/videos/618312933",
+                "runnerUrl": "https://www.twitch.tv/faildude"
+              },
+              {
+                "runner": "Tyslata",
+                "time": "9:05:52",
+                "date": "2023-07-08",
+                "vod": "#",
+                "runnerUrl": "https://www.twitch.tv/tyslata"
+              },
+              {
+                "runner": "syotv",
+                "time": "9:06:08",
+                "date": "2023-01-14",
+                "vod": "#",
+                "runnerUrl": "https://www.twitch.tv/syotv"
+              },
+              {
+                "runner": "SergeBenamou31",
+                "time": "9:07:24",
+                "date": "2020-04-24",
+                "vod": "https://www.twitch.tv/videos/600910266",
+                "runnerUrl": "https://www.twitch.tv/sergebenamou31"
+              },
+              {
+                "runner": "Rilani",
+                "time": "9:08:13",
+                "date": "2019-02-01",
+                "vod": "https://www.twitch.tv/videos/373617975",
+                "runnerUrl": "https://www.twitch.tv/rilani"
+              },
+              {
+                "runner": "Cayoche",
+                "time": "9:08:59",
+                "date": "2019-01-19",
+                "vod": "https://www.twitch.tv/videos/366190520",
+                "runnerUrl": "https://www.twitch.tv/cayoche"
+              },
+              {
+                "runner": "Reseaunance",
+                "time": "9:10:21",
+                "date": "2021-07-21",
+                "vod": "https://www.twitch.tv/videos/1092961865",
+                "runnerUrl": "https://www.twitch.tv/reseaunance"
+              },
+              {
+                "runner": "CondePetie",
+                "time": "9:11:29",
+                "date": "2018-10-29",
+                "vod": "#",
+                "runnerUrl": "https://www.twitch.tv/condepetie"
+              },
+              {
+                "runner": "TheChefPMT",
+                "time": "9:13:03",
+                "date": "2022-12-28",
+                "vod": "https://www.twitch.tv/videos/1245687285",
+                "runnerUrl": "https://www.twitch.tv/thechefpmt"
+              },
+              {
+                "runner": "d0p3r_9",
+                "time": "9:14:51",
+                "date": "2017-09-12",
+                "vod": "https://www.twitch.tv/videos/174183823",
+                "runnerUrl": "https://www.twitch.tv/d0p3r_9"
+              }
+            ],
+            "cutoffs": {}
+          },
+          {
+            "id": "any-turbo",
+            "name": "Any% Turbo",
+            "rules": "- Timed segment starts on the first frame of the title screen starting to fade after selecting \"New Game\" and ends on the first frame of the last damage number appearing on the final hit on Necron.\n- Turbo controller is allowed.\n- Only PS1 and PS2 consoles are allowed.\n- Hardware manipulation is banned (as opening the disk tray to skip cutscenes).",
+            "guides": [],
+            "runs": [
+              {
+                "runner": "CaracarnVi",
+                "time": "8:33:53",
+                "date": "2025-08-19",
+                "vod": "https://www.youtube.com/watch?v=LClemdFvkiw",
+                "runnerUrl": "https://www.twitch.tv/CaracarnVi"
+              },
+              {
+                "runner": "PeteSwanson",
+                "time": "8:35:56",
+                "date": "2024-08-13",
+                "vod": "https://www.youtube.com/watch?v=TpsZrg6SBcE",
+                "runnerUrl": "https://www.twitch.tv/PeteSwanson"
+              },
+              {
+                "runner": "morningcraft_",
+                "time": "8:36:33",
+                "date": "2023-12-25",
+                "vod": "https://www.twitch.tv/videos/2012355891",
+                "runnerUrl": "https://www.twitch.tv/morningcraft_"
+              },
+              {
+                "runner": "Misut0",
+                "time": "8:37:03",
+                "date": "2024-04-19",
+                "vod": "https://www.twitch.tv/videos/2123727646",
+                "runnerUrl": "https://www.twitch.tv/Misut0"
+              },
+              {
+                "runner": "swed7",
+                "time": "8:41:47",
+                "date": "2022-09-12",
+                "vod": "https://www.twitch.tv/videos/1605234907",
+                "runnerUrl": "https://www.twitch.tv/swed7"
+              },
+              {
+                "runner": "syoTV",
+                "time": "8:45:12",
+                "date": "2026-03-30",
+                "vod": "https://www.youtube.com/watch?v=w1VWR5uK-Y8",
+                "runnerUrl": "https://www.twitch.tv/syoTV"
+              },
+              {
+                "runner": "nicolon1",
+                "time": "8:47:20",
+                "date": "2025-02-08",
+                "vod": "https://www.youtube.com/watch?v=0L4nSiIo-O8",
+                "runnerUrl": "https://www.twitch.tv/nicolon1"
+              },
+              {
+                "runner": "frownee",
+                "time": "8:47:26",
+                "date": "2017-03-18",
+                "vod": "https://www.twitch.tv/videos/129500689",
+                "runnerUrl": "https://www.twitch.tv/frownee"
+              },
+              {
+                "runner": "cornfed69",
+                "time": "8:47:28",
+                "date": "2025-01-16",
+                "vod": "https://www.youtube.com/watch?v=IPOYZI4WIxQ",
+                "runnerUrl": "https://www.twitch.tv/cornfed69"
+              },
+              {
+                "runner": "cease_",
+                "time": "8:47:56",
+                "date": "2024-06-25",
+                "vod": "#",
+                "runnerUrl": "https://www.speedrun.com/users/cease_"
+              },
+              {
+                "runner": "Petroesjka",
+                "time": "8:48:11",
+                "date": "2020-01-17",
+                "vod": "#",
+                "runnerUrl": "https://www.speedrun.com/users/Petroesjka"
+              },
+              {
+                "runner": "Ayymart",
+                "time": "8:49:22",
+                "date": "2021-07-23",
+                "vod": "https://www.youtube.com/watch?v=H2jcGQn-Le0",
+                "runnerUrl": "https://www.twitch.tv/Ayymart"
+              },
+              {
+                "runner": "Dactyly",
+                "time": "8:50:44",
+                "date": "2024-08-26",
+                "vod": "https://www.youtube.com/watch?v=kaemSSGCZoY",
+                "runnerUrl": "https://www.twitch.tv/Dactyly"
+              },
+              {
+                "runner": "mythikdawn",
+                "time": "8:50:48",
+                "date": "2021-03-08",
+                "vod": "https://www.youtube.com/watch?v=j0Q_qYUrEsI",
+                "runnerUrl": "https://www.twitch.tv/mythikdawn"
+              },
+              {
+                "runner": "awesomeWaves",
+                "time": "8:53:28",
+                "date": "2023-04-17",
+                "vod": "https://www.youtube.com/watch?v=2PpLMOC956Q",
+                "runnerUrl": "https://www.twitch.tv/awesomeWaves"
+              },
+              {
+                "runner": "Okamikaze",
+                "time": "8:56:03",
+                "date": "2025-08-25",
+                "vod": "https://www.youtube.com/watch?v=8B694x5p3Bk",
+                "runnerUrl": "https://www.twitch.tv/Okamikaze"
+              },
+              {
+                "runner": "NeoSlash72",
+                "time": "8:58:01",
+                "date": "2023-01-19",
+                "vod": "https://www.youtube.com/watch?v=WrL0vqQYDSg",
+                "runnerUrl": "https://www.twitch.tv/neoslash72"
+              },
+              {
+                "runner": "KaWaiNL",
+                "time": "8:58:04",
+                "date": "2016-02-15",
+                "vod": "https://www.twitch.tv/videos/45326452",
+                "runnerUrl": "https://www.twitch.tv/KaWaiNL"
+              },
+              {
+                "runner": "Egggdar",
+                "time": "9:02:09",
+                "date": "2019-12-03",
+                "vod": "https://www.twitch.tv/videos/516293561",
+                "runnerUrl": "https://www.twitch.tv/egggdar"
+              },
+              {
+                "runner": "Nepf",
+                "time": "9:03:44",
+                "date": "2015-12-29",
+                "vod": "https://www.twitch.tv/videos/42466349",
+                "runnerUrl": "https://www.twitch.tv/Nepf"
+              },
+              {
+                "runner": "Webster",
+                "time": "9:05:12",
+                "date": "2015-08-26",
+                "vod": "https://www.twitch.tv/videos/43139186",
+                "runnerUrl": "https://www.twitch.tv/webster"
+              },
+              {
+                "runner": "Kenorah",
+                "time": "9:07:32",
+                "date": "2024-01-18",
+                "vod": "#",
+                "runnerUrl": "https://www.twitch.tv/kenorah"
+              },
+              {
+                "runner": "primitivedeathtv",
+                "time": "9:07:37",
+                "date": "2024-03-13",
+                "vod": "https://www.twitch.tv/videos/2089434756",
+                "runnerUrl": "https://www.twitch.tv/Primitivedeathtv"
+              },
+              {
+                "runner": "Dubldrop",
+                "time": "9:07:53",
+                "date": "2023-01-28",
+                "vod": "https://www.twitch.tv/videos/1720834139",
+                "runnerUrl": "https://www.twitch.tv/dubldrop"
+              },
+              {
+                "runner": "Odinsfall",
+                "time": "9:10:19",
+                "date": "2016-05-29",
+                "vod": "#",
+                "runnerUrl": "https://www.twitch.tv/Odinsfall"
+              },
+              {
+                "runner": "TranceQuina",
+                "time": "9:10:46",
+                "date": "2020-05-05",
+                "vod": "https://www.twitch.tv/videos/610583551",
+                "runnerUrl": "https://www.twitch.tv/trancequina"
+              },
+              {
+                "runner": "KarnaExe",
+                "time": "9:13:17",
+                "date": "2020-12-21",
+                "vod": "https://www.twitch.tv/videos/844086655",
+                "runnerUrl": "https://www.twitch.tv/KarnaExe"
+              }
+            ],
+            "cutoffs": {}
+          },
+          {
+            "id": "any-jp-turbo",
+            "name": "Any% JP Turbo",
+            "rules": "- Timed segment starts on the first frame of the title screen starting to fade after selecting \"New Game\" and ends on the first frame of the last damage number appearing on the final hit on Necron.\n- Turbo controller is allowed.\n- Only PS1 and PS2 consoles are allowed.\n- Hardware manipulation is banned (as opening the disk tray to skip cutscenes).",
+            "guides": [],
+            "runs": [
+              {
+                "runner": "Misut0",
+                "time": "8:37:47",
+                "date": "2025-05-23",
+                "vod": "https://www.youtube.com/watch?v=xQHnIBsnI7c",
+                "runnerUrl": "https://www.twitch.tv/Misut0"
+              },
+              {
+                "runner": "mpu1209x",
+                "time": "8:40:05",
+                "date": "2018-05-03",
+                "vod": "#"
+              },
+              {
+                "runner": "Luzbel",
+                "time": "8:40:37",
+                "date": "2019-10-25",
+                "vod": "#",
+                "runnerUrl": "https://www.twitch.tv/luzbel"
+              },
+              {
+                "runner": "ze_ak",
+                "time": "8:41:37",
+                "date": "2016-07-16",
+                "vod": "#",
+                "runnerUrl": "https://www.twitch.tv/ze_ak"
+              },
+              {
+                "runner": "CaracarnVi",
+                "time": "8:43:21",
+                "date": "2018-03-19",
+                "vod": "https://www.youtube.com/watch?v=cXlJC0_UaI0",
+                "runnerUrl": "https://www.twitch.tv/caracarnvi"
+              },
+              {
+                "runner": "swed7",
+                "time": "8:46:54",
+                "date": "2021-04-10",
+                "vod": "https://www.twitch.tv/videos/982595173",
+                "runnerUrl": "https://www.twitch.tv/swed7"
+              },
+              {
+                "runner": "thebroodles",
+                "time": "8:47:24",
+                "date": "2022-04-29",
+                "vod": "#",
+                "runnerUrl": "https://www.twitch.tv/thebroodles"
+              },
+              {
+                "runner": "mythikdawn",
+                "time": "8:48:49",
+                "date": "2021-02-21",
+                "vod": "https://www.youtube.com/watch?v=icGChNMHQfg",
+                "runnerUrl": "https://www.twitch.tv/mythikdawn"
+              },
+              {
+                "runner": "moutaro",
+                "time": "8:52:10",
+                "date": "2016-11-27",
+                "vod": "https://www.twitch.tv/videos/105002923",
+                "runnerUrl": "https://www.twitch.tv/moutaro"
+              },
+              {
+                "runner": "emanon2525",
+                "time": "9:01:15",
+                "date": "2013-04-01",
+                "vod": "https://www.nicovideo.jp/user/1108516/mylist/36518445",
+                "runnerUrl": "https://www.twitch.tv/emanon2525"
+              },
+              {
+                "runner": "syotv",
+                "time": "9:02:36",
+                "date": "2022-07-24",
+                "vod": "https://www.youtube.com/watch?v=KpW2dithriM",
+                "runnerUrl": "https://www.twitch.tv/syotv"
+              },
+              {
+                "runner": "Tojju",
+                "time": "9:06:29",
+                "date": "2016-08-05",
+                "vod": "#",
+                "runnerUrl": "https://www.twitch.tv/tojju"
+              },
+              {
+                "runner": "Dactyly",
+                "time": "8:55:36",
+                "date": "2024-08-25",
+                "vod": "https://www.youtube.com/watch?v=zPInYUna8WI",
+                "runnerUrl": "https://www.twitch.tv/Dactyly"
+              }
+            ],
+            "cutoffs": {}
+          }
+        ]
+      }
+    }
+  },
+  "_site": {
+    "aboutTitle": "About / FAQ",
+    "aboutBody": "## Is this the official leaderboard for Final Fantasy speedruns?\nYes, it is (at least for the games listed here).\nThe goal of this leaderboard is to provide the most objective and fair environment possible. I utilize \"future-proof\" rules designed to remain consistent, regardless of who is moderating.\n\nIn other communities, runners often face arbitrary changes, such as merging turbo and non-turbo runs, re-voting on skips that were previously established, or clinging to illogical timing methods for the sake of \"legacy.\" This leaderboard avoids those pitfalls, offering a stable and just platform where every runner is treated with objectivity.\n\n## How is the leaderboard organized?\nI implement a cutoff time to appear on the ranked leaderboard. This ensures that the rankings reflect serious attempts at competitive improvement. However, anyone can submit their time, and those who do not meet the cutoff will still appear on the site as \"unranked\".\n\n## Why do you use the term \"timed segment\" instead of \"when the run starts\"?\nIn speedrunning, it is often assumed that a \"run\" only exists while the timer is running. For example, many RPGs are timed from selecting \"New Game\" until the final hit on the last boss.\nHowever, timing points are subjective; they are simply the segments the community has agreed to compare. In many Final Fantasy games, RNG   can be manipulated before \"New Game\" is even pressed. I distinguish between two specific concepts:\na) The Run: Defines what is allowed from the moment the game is booted.\nb) The Timed Segment: Defines the portion of the run that is actually compared on the clock.\n\nBy separating these, we can keep familiar timing methods (like New Game to Final Hit) while still forbidding unfair pre-game manipulations (like loading specific saves or external RNG setups). This ensures a fair competition without pretending that the \"New Game\" screen is a perfectly objective boundary.\n\n## Why is a specific game or category not listed?\nIf you are interested in seeing a specific game or category added to the site, please feel free to contact me."
+  }
+}

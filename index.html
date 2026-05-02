@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Final Fantasy Speedrun Leaderboards</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Rajdhani:wght@500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<canvas id="starfield"></canvas>
+<canvas id="hexfield"></canvas>
+<div class="page">
+  <header class="top">
+    <h1 class="site-title" role="button" tabindex="0" title="Back to Latest Runs">Final Fantasy Speedruns</h1>
+    <div class="crystal-stage" id="coverCrystal" title="Back to Latest Runs">
+      <div class="crystal-orbit"></div>
+      <canvas id="crystal-canvas" width="214" height="248"></canvas>
+    </div>
+    <h2 class="subtitle">Official Leaderboards</h2>
+  </header>
+
+  <section class="search-row" aria-label="Search runner">
+    <label class="search-shell">
+      <svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="m21 21-4.35-4.35M10.8 18.1a7.3 7.3 0 1 1 0-14.6 7.3 7.3 0 0 1 0 14.6Z" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      <input id="runnerSearch" type="search" placeholder="search runner" autocomplete="off">
+    </label>
+  </section>
+
+  <nav class="game-nav" id="gameNav" aria-label="Game selection"></nav>
+
+  <main>
+    <section class="panel latest-panel" id="latestPanel">
+      <div class="panel-head">
+        <h2 class="panel-title">Latest Runs</h2>
+        <button class="about-link" id="aboutToggle" type="button">About / FAQ</button>
+        <span class="status" id="latestCount">Showing latest runs</span>
+      </div>
+      <div class="table-wrap">
+        <table aria-label="Latest runs table">
+          <thead>
+            <tr>
+              <th class="c">Rank</th>
+              <th>Tier</th>
+              <th>Runner</th>
+              <th>Game</th>
+              <th>Category</th>
+              <th>Time</th>
+              <th class="r">Date</th>
+              <th class="c">VOD</th>
+            </tr>
+          </thead>
+          <tbody id="latestBody"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="panel about-panel hidden" id="aboutPanel">
+      <div class="panel-head">
+        <h2 class="panel-title" id="aboutTitle">About / FAQ</h2>
+      </div>
+      <div class="about-body" id="aboutBody"></div>
+    </section>
+
+    <section class="panel board-panel" id="boardPanel" aria-live="polite">
+      <div class="game-controls">
+        <div class="rules-line info-section">
+          <div class="info-tabs">
+            <button class="rules-toggle active" id="rulesToggle" type="button">Rules ▾</button>
+            <button class="guides-toggle" id="guidesToggle" type="button" hidden>Guides ▾</button>
+          </div>
+          <div class="info-content">
+            <div class="rules-body" id="rulesBody"></div>
+            <div class="guides-body" id="guidesBody"></div>
+          </div>
+        </div>
+        <div class="category-platform-row">
+          <div class="platform-tabs" id="platformControls"></div>
+          <div class="cat-tabs" id="categoryControls"></div>
+        </div>
+      </div>
+      <div class="table-wrap">
+        <table aria-label="Game leaderboard table">
+          <thead>
+            <tr>
+              <th class="c">Rank</th>
+              <th>Tier</th>
+              <th>Runner</th>
+              <th>Time</th>
+              <th class="r">Date</th>
+              <th class="c">VOD</th>
+            </tr>
+          </thead>
+          <tbody id="boardBody"></tbody>
+        </table>
+      </div>
+      <div class="cutoffs-line" id="cutoffsLine"></div>
+    </section>
+  </main>
+
+  <footer class="footer-note site-footer">Tiers based on % margin from WR: S 1% &middot; A 2% &middot; B 3% &middot; C 5% &middot; D 8%.<br>Runs beyond Tier D cutoff are not listed &middot; Submit times via Twitch: <a href="https://www.twitch.tv/luzbel" target="_blank" rel="noopener noreferrer">Luzbel</a> &middot; X: <a href="https://x.com/Luzbel789" target="_blank" rel="noopener noreferrer">@Luzbel789</a>.</footer>
+</div>
+<script src="script.js"></script>
+</body>
+</html>
