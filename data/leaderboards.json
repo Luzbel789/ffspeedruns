@@ -421,6 +421,11 @@
                 "title": "SPEEDRUN TUTORIAL - ADVANCED",
                 "url": "https://www.youtube.com/watch?v=IWsH0s-tcw4",
                 "description": "- Advanced route/stepcount for normal route and spider route.\n- FIx the snake skip AP issue by killing all 4 bats + both bridge encounters in Dollet."
+              },
+              {
+                "title": "FF 8 UTILITIES",
+                "url": "https://github.com/Kiitoksia/FF8-Utilities/releases",
+                "description": "- Program made by Kiitoksia to manipulate different stuff in the game such as Quistis/Zell card, Caraway code or Ultimecia party."
               }
             ],
             "runs": [
@@ -679,6 +684,11 @@
                 "title": "SPEEDRUN TUTORIAL - ADVANCED",
                 "url": "https://www.youtube.com/watch?v=r3TlaEvMink&lc=UgzYd9mz-QzwoIVTpZR4AaABAg",
                 "description": "- Advanced route/stepcount for normal route and spider route.\n- FIx the snake skip AP issue by killing all 4 bats + both bridge encounters in Dollet."
+              },
+              {
+                "title": "FF 8 UTILITIES",
+                "url": "https://github.com/Kiitoksia/FF8-Utilities/releases",
+                "description": "- Program made by Kiitoksia to manipulate different stuff in the game such as Quistis/Zell card, Caraway code or Ultimecia party."
               }
             ],
             "runs": [
@@ -745,7 +755,13 @@
             "id": "any-jp",
             "name": "Any% JP Turbo",
             "rules": "- Timed segment starts on the first frame of the title screen starting to fade after selecting \"New Game\" and ends on the first frame of the last damage number appearing on the final hit on Ultimecia.\n- Turbo controller is allowed.\n- Only PS1 and PS2 consoles are allowed.\n- Hardware manipulation is banned (as opening the disk tray to skip cutscenes).",
-            "guides": [],
+            "guides": [
+              {
+                "title": "FF 8 UTILITIES",
+                "url": "https://github.com/Kiitoksia/FF8-Utilities/releases",
+                "description": "- Program made by Kiitoksia to manipulate different stuff in the game such as Quistis/Zell card, Caraway code or Ultimecia party."
+              }
+            ],
             "runs": [
               {
                 "runner": "syoTV",
