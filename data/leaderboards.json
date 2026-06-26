@@ -38,7 +38,7 @@
                 "runner": "Zheal",
                 "time": "6:30:58",
                 "date": "2026-04-21",
-                "vod": "#",
+                "vod": "https://www.youtube.com/watch?v=tpRwtmEaML0",
                 "runnerUrl": "https://www.twitch.tv/zheal"
               },
               {
@@ -361,6 +361,41 @@
               }
             ],
             "cutoffs": {}
+          },
+          {
+            "id": "new-category",
+            "name": "Any% Restricted",
+            "rules": "- Ocean skip is banned.\n- Cait Sith's limit break \"Slots\" is banned.\n\n- Timed segment starts on the first frame of the title screen starting to fade after selecting \"New Game\" and ends on the first frame of the last damage number appearing on the final Sephiroth battle.\n- The run must be performed on the latest Steam version of the game with the latest version of the SpeedSquare mod installed.\nIn SpeedSquare, \"Inject Battle RNG Seed: Random Seed\" must be selected. The yellow text injected by SpeedSquare that appears on the title screen must be visible, unobstructed, and readable in the submitted video every time the title screen is viewed during or immediately before the run.\n- You must hard reset (close and re-open the game) immediately before the run without starting a New Game or loading a file beforehand.\n- Turbo/macros are banned.\n- The use of the Character Booster through Square Enix's online service is prohibited.\n\n- SpeedSquare download and guide here: https://www.speedrun.com/ff7/news/5x1mqzx2",
+            "guides": [],
+            "runs": [
+              {
+                "runner": "phek1200",
+                "time": "6:26:42",
+                "date": "2023-03-06",
+                "vod": "https://www.youtube.com/watch?v=lVqa_aVZKJo",
+                "runnerUrl": "https://www.twitch.tv/phek1200"
+              },
+              {
+                "runner": "bassix1338",
+                "time": "6:39:15",
+                "date": "2026-04-14",
+                "vod": "https://www.youtube.com/watch?v=sF4Y0DBJSrA",
+                "runnerUrl": "https://www.twitch.tv/bassix1338"
+              },
+              {
+                "runner": "W0lllle",
+                "time": "6:52:18",
+                "date": "2021-05-02"
+              },
+              {
+                "runner": "chefbahm",
+                "time": "6:54:59",
+                "date": "2021-11-15",
+                "vod": "https://www.twitch.tv/videos/1206825647",
+                "runnerUrl": "https://www.twitch.tv/chefbahm"
+              }
+            ],
+            "cutoffs": {}
           }
         ]
       }
@@ -376,7 +411,18 @@
             "id": "any",
             "name": "Any%",
             "rules": "- Timed segment starts on the first frame of the title screen starting to fade after selecting \"New Game\" and ends on the first frame of the last damage number appearing on the final hit on Ultimecia.\n- Only PS1 and PS2 consoles are allowed.\n- Turbo controller (or any kind of controller with a hardware advantage over the normal ones) is banned.\n- Hardware manipulation is banned (as opening the disk tray to skip cutscenes).",
-            "guides": [],
+            "guides": [
+              {
+                "title": "SPEEDRUN TUTORIAL - BEGINNER",
+                "url": "https://www.youtube.com/watch?v=r3TlaEvMink&lc=UgzYd9mz-QzwoIVTpZR4AaABAg",
+                "description": "- Speedrun tutorial for any version of the game (console/PC/HD).\n- Don't switch the route until you are able to get a sub 8:25 on console."
+              },
+              {
+                "title": "SPEEDRUN TUTORIAL - ADVANCED",
+                "url": "https://www.youtube.com/watch?v=IWsH0s-tcw4",
+                "description": "- Advanced route/stepcount for normal route and spider route.\n- FIx the snake skip AP issue by killing all 4 bats + both bridge encounters in Dollet."
+              }
+            ],
             "runs": [
               {
                 "runner": "Luzbel",
@@ -623,7 +669,18 @@
             "id": "any-turbo",
             "name": "Any% Turbo",
             "rules": "- Timed segment starts on the first frame of the title screen starting to fade after selecting \"New Game\" and ends on the first frame of the last damage number appearing on the final hit on Ultimecia.\n- Turbo controller is allowed.\n- Only PS1 and PS2 consoles are allowed.\n- Hardware manipulation is banned (as opening the disk tray to skip cutscenes).",
-            "guides": [],
+            "guides": [
+              {
+                "title": "SPEEDRUN TUTORIAL - BEGINNER",
+                "url": "https://www.youtube.com/watch?v=r3TlaEvMink&lc=UgzYd9mz-QzwoIVTpZR4AaABAg",
+                "description": "- Speedrun tutorial for any version of the game (console/PC/HD).\n- Don't switch the route until you are able to get a sub 8:25 on console."
+              },
+              {
+                "title": "SPEEDRUN TUTORIAL - ADVANCED",
+                "url": "https://www.youtube.com/watch?v=r3TlaEvMink&lc=UgzYd9mz-QzwoIVTpZR4AaABAg",
+                "description": "- Advanced route/stepcount for normal route and spider route.\n- FIx the snake skip AP issue by killing all 4 bats + both bridge encounters in Dollet."
+              }
+            ],
             "runs": [
               {
                 "runner": "Cordellium",
@@ -692,16 +749,16 @@
             "runs": [
               {
                 "runner": "syoTV",
-                "time": "8:08:43",
-                "date": "2026-04-27",
-                "vod": "#",
+                "time": "8:08:28",
+                "date": "2026-05-08",
+                "vod": "https://www.youtube.com/watch?v=S552bl6ChPc",
                 "runnerUrl": "https://www.twitch.tv/syotv"
               },
               {
                 "runner": "Luzbel",
-                "time": "8:08:44",
-                "date": "2026-03-09",
-                "vod": "https://www.youtube.com/watch?v=rH4icaDh5Ak",
+                "time": "8:05:56",
+                "date": "2026-06-20",
+                "vod": "https://www.youtube.com/watch?v=KfHwYFDWmuA",
                 "runnerUrl": "https://www.twitch.tv/luzbel"
               },
               {
