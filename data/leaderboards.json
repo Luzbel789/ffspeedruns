@@ -764,18 +764,18 @@
             ],
             "runs": [
               {
-                "runner": "syoTV",
-                "time": "8:08:28",
-                "date": "2026-05-08",
-                "vod": "https://www.youtube.com/watch?v=S552bl6ChPc",
-                "runnerUrl": "https://www.twitch.tv/syotv"
-              },
-              {
                 "runner": "Luzbel",
                 "time": "8:05:56",
                 "date": "2026-06-20",
                 "vod": "https://www.youtube.com/watch?v=KfHwYFDWmuA",
                 "runnerUrl": "https://www.twitch.tv/luzbel"
+              },
+              {
+                "runner": "syoTV",
+                "time": "8:08:28",
+                "date": "2026-05-08",
+                "vod": "https://www.youtube.com/watch?v=S552bl6ChPc",
+                "runnerUrl": "https://www.twitch.tv/syotv"
               },
               {
                 "runner": "Cordellium",
@@ -813,18 +813,18 @@
                 "runnerUrl": "https://www.twitch.tv/kekgs"
               },
               {
-                "runner": "stiylemagnus",
-                "time": "8:17:35",
-                "date": "2015-08-20",
-                "vod": "https://www.youtube.com/watch?v=q2-R03drdaM",
-                "runnerUrl": "https://www.twitch.tv/stiylemagnus"
-              },
-              {
                 "runner": "awesomeWaves",
                 "time": "8:17:21",
                 "date": "2023-12-02",
                 "vod": "https://www.youtube.com/watch?v=Ovb4EOPkbo4",
                 "runnerUrl": "https://www.twitch.tv/awesomeWaves"
+              },
+              {
+                "runner": "stiylemagnus",
+                "time": "8:17:35",
+                "date": "2015-08-20",
+                "vod": "https://www.youtube.com/watch?v=q2-R03drdaM",
+                "runnerUrl": "https://www.twitch.tv/stiylemagnus"
               },
               {
                 "runner": "emanon2525",
@@ -842,6 +842,53 @@
               }
             ],
             "cutoffs": {}
+          }
+        ]
+      },
+      "Emulator": {
+        "categories": [
+          {
+            "id": "any",
+            "name": "Any%",
+            "rules": "- Timed segment starts on the first frame of the title screen starting to fade after selecting \"New Game\" and ends on the first frame of the last damage number appearing on the final hit on Ultimecia.\n- Turbo controller is allowed.\n- Emulator: Duckstation with the following guide: https://www.speedrun.com/ff8/guides/uh8r3",
+            "guides": [],
+            "runs": [
+              {
+                "runner": "elRuinel",
+                "time": "8:05:19",
+                "date": "2026-06-18",
+                "vod": "https://www.youtube.com/watch?v=zwfNM4kdAPg",
+                "runnerUrl": "https://www.twitch.tv/elRuinel"
+              },
+              {
+                "runner": "Jackcappe",
+                "time": "8:07:05",
+                "date": "2026-08-10",
+                "vod": "https://www.twitch.tv/videos/2842261449",
+                "runnerUrl": "https://www.twitch.tv/jackcappe"
+              },
+              {
+                "runner": "awesomeWaves",
+                "time": "8:08:04",
+                "date": "2023-10-05",
+                "vod": "https://www.youtube.com/watch?v=_eX81kxjFQ0",
+                "runnerUrl": "https://www.twitch.tv/awesomeWaves"
+              },
+              {
+                "runner": "thekittytoebeans",
+                "time": "8:21:01",
+                "date": "2026-07-03",
+                "vod": "https://www.youtube.com/watch?v=RlXWxXSPVlo",
+                "runnerUrl": "https://www.twitch.tv/thekittytoebeans"
+              },
+              {
+                "runner": "eswoogi",
+                "time": "8:24:35",
+                "date": "2025-04-26",
+                "vod": "https://www.youtube.com/watch?v=VHuDsUlW6Ek",
+                "runnerUrl": "https://www.twitch.tv/eswoogi"
+              }
+            ]
           }
         ]
       }
