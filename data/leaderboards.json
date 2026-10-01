@@ -12,18 +12,18 @@
             "guides": [],
             "runs": [
               {
-                "runner": "Zheal",
-                "time": "5:12:53",
-                "date": "2025-03-06",
-                "vod": "https://www.youtube.com/watch?v=pxSDDXHYY8o",
-                "runnerUrl": "https://www.twitch.tv/zheal"
-              },
-              {
                 "runner": "Luzbel",
                 "runnerUrl": "https://www.twitch.tv/luzbel",
-                "time": "5:19:06",
-                "date": "2024-12-14",
-                "vod": "https://www.twitch.tv/videos/2326468623"
+                "time": "5:12:34",
+                "date": "2026-10-01",
+                "vod": "https://www.youtube.com/watch?v=yGdUteV-o3g"
+              },
+              {
+                "runner": "Zheal",
+                "time": "5:12:53",
+                "date": "2025-03-02",
+                "vod": "https://www.youtube.com/watch?v=pxSDDXHYY8o",
+                "runnerUrl": "https://www.twitch.tv/zheal"
               }
             ],
             "cutoffs": {}
@@ -56,13 +56,6 @@
                 "runnerUrl": "https://www.twitch.tv/morningcraft_"
               },
               {
-                "runner": "thebroodles",
-                "time": "6:38:58",
-                "date": "2023-08-22",
-                "runnerUrl": "https://www.twitch.tv/thebroodles",
-                "vod": "https://www.twitch.tv/videos/1905734647"
-              },
-              {
                 "runner": "phek1200",
                 "time": "6:34:03",
                 "date": "2025-11-01",
@@ -82,6 +75,13 @@
                 "date": "2025-03-13",
                 "vod": "https://www.youtube.com/watch?v=rsl8z9wZi5c",
                 "runnerUrl": "https://www.twitch.tv/calebhart42"
+              },
+              {
+                "runner": "thebroodles",
+                "time": "6:38:58",
+                "date": "2023-08-22",
+                "runnerUrl": "https://www.twitch.tv/thebroodles",
+                "vod": "https://www.twitch.tv/videos/1905734647"
               },
               {
                 "runner": "DylWingo",
@@ -112,6 +112,13 @@
                 "runnerUrl": "https://www.twitch.tv/neon_genesis_"
               },
               {
+                "runner": "okamikaze",
+                "time": "6:46:37",
+                "date": "2026-07-15",
+                "runnerUrl": "https://www.youtube.com/@okamikaze6135",
+                "vod": "https://www.youtube.com/watch?v=gJLlumAh9eI"
+              },
+              {
                 "runner": "d13sel",
                 "time": "6:47:31",
                 "date": "2021-11-25",
@@ -140,13 +147,6 @@
                 "runnerUrl": "https://www.twitch.tv/jayrod316"
               },
               {
-                "runner": "okamikaze",
-                "time": "6:53:11",
-                "date": "2023-07-13",
-                "vod": "https://www.youtube.com/watch?v=jC2m4x8sSg0",
-                "runnerUrl": "https://www.youtube.com/@okamikaze6135"
-              },
-              {
                 "runner": "JohnRossums",
                 "time": "6:53:47",
                 "date": "2022-02-10",
@@ -173,6 +173,13 @@
                 "date": "2023-01-09",
                 "vod": "#",
                 "runnerUrl": "https://www.twitch.tv/zcwil"
+              },
+              {
+                "runner": "syoTV",
+                "time": "6:57:56",
+                "date": "2026-07-04",
+                "vod": "https://www.youtube.com/watch?v=bAUUWsQwdMk",
+                "runnerUrl": "https://www.twitch.tv/syoTV"
               },
               {
                 "runner": "KekGs",
@@ -369,6 +376,13 @@
             "guides": [],
             "runs": [
               {
+                "runner": "bassix1338",
+                "time": "6:24:30",
+                "date": "2026-08-22",
+                "vod": "https://www.youtube.com/watch?v=wfKNI5uYpok",
+                "runnerUrl": "https://www.twitch.tv/Bassix1338"
+              },
+              {
                 "runner": "phek1200",
                 "time": "6:26:42",
                 "date": "2023-03-06",
@@ -376,11 +390,11 @@
                 "runnerUrl": "https://www.twitch.tv/phek1200"
               },
               {
-                "runner": "bassix1338",
-                "time": "6:39:15",
-                "date": "2026-04-14",
-                "vod": "https://www.youtube.com/watch?v=sF4Y0DBJSrA",
-                "runnerUrl": "https://www.twitch.tv/bassix1338"
+                "runner": "BarrelRollFox",
+                "time": "6:43:30",
+                "date": "2026-09-19",
+                "vod": "https://www.youtube.com/watch?v=s60k_-ubvec",
+                "runnerUrl": "https://www.youtube.com/@BarrelRollFox"
               },
               {
                 "runner": "W0lllle",
@@ -439,7 +453,7 @@
               {
                 "runner": "Cordellium",
                 "time": "8:18:20",
-                "date": "2025-09-23",
+                "date": "2025-09-20",
                 "vod": "https://www.youtube.com/watch?v=emtNzBXrMGo",
                 "runnerUrl": "https://www.twitch.tv/Cordellium"
               },
@@ -742,6 +756,13 @@
                 "runnerUrl": "https://www.twitch.tv/d13sel"
               },
               {
+                "runner": "thekittytoebeans",
+                "time": "8:38:25",
+                "date": "2026-09-04",
+                "vod": "https://www.youtube.com/watch?v=s99AH56zQ_A",
+                "runnerUrl": "https://www.twitch.tv/thekittytoebeans"
+              },
+              {
                 "runner": "quetzington",
                 "time": "8:50:49",
                 "date": "2022-05-09",
@@ -780,7 +801,7 @@
               {
                 "runner": "Cordellium",
                 "time": "8:08:59",
-                "date": "2025-10-14",
+                "date": "2025-10-07",
                 "vod": "https://www.youtube.com/watch?v=cliI_J1M9EM",
                 "runnerUrl": "https://www.twitch.tv/Cordellium"
               },
@@ -834,11 +855,35 @@
                 "runnerUrl": "https://www.twitch.tv/emanon2525"
               },
               {
+                "runner": "トマトごはん",
+                "time": "8:27:50",
+                "date": "2012-08-23",
+                "vod": "#"
+              },
+              {
                 "runner": "Deathtome",
                 "time": "8:30:42",
                 "date": "2017-03-31",
                 "vod": "https://www.youtube.com/watch?v=VLOKZSmaqJA",
                 "runnerUrl": "https://www.youtube.com/channel/UC3of5_OhvTZc0hyBSFadsmA"
+              },
+              {
+                "runner": "二見",
+                "time": "8:19:11",
+                "date": "2014-04-04",
+                "vod": "#"
+              },
+              {
+                "runner": "mochigome",
+                "time": "8:20:15",
+                "date": "2015-08-23",
+                "vod": "#"
+              },
+              {
+                "runner": "カロメ",
+                "time": "8:20:53",
+                "date": "2014-05-01",
+                "vod": "#"
               }
             ],
             "cutoffs": {}
@@ -855,16 +900,16 @@
             "runs": [
               {
                 "runner": "elRuinel",
-                "time": "8:05:19",
-                "date": "2026-06-18",
-                "vod": "https://www.youtube.com/watch?v=zwfNM4kdAPg",
+                "time": "8:02:23",
+                "date": "2026-08-27",
+                "vod": "https://www.youtube.com/watch?v=TEq7sXdm6OM",
                 "runnerUrl": "https://www.twitch.tv/elRuinel"
               },
               {
                 "runner": "Jackcappe",
-                "time": "8:07:05",
-                "date": "2026-08-10",
-                "vod": "https://www.twitch.tv/videos/2842261449",
+                "time": "8:04:36",
+                "date": "2026-08-23",
+                "vod": "https://www.youtube.com/watch?v=wJQ9GiIbdi8",
                 "runnerUrl": "https://www.twitch.tv/jackcappe"
               },
               {
@@ -888,7 +933,8 @@
                 "vod": "https://www.youtube.com/watch?v=VHuDsUlW6Ek",
                 "runnerUrl": "https://www.twitch.tv/eswoogi"
               }
-            ]
+            ],
+            "cutoffs": {}
           }
         ]
       }
@@ -909,7 +955,7 @@
               {
                 "runner": "thebroodles",
                 "time": "8:34:46",
-                "date": "2025-10-25",
+                "date": "2022-10-26",
                 "vod": "https://www.youtube.com/watch?v=D5ub-UN5xJ0",
                 "runnerUrl": "https://www.twitch.tv/thebroodles"
               },
@@ -1300,6 +1346,13 @@
                 "runnerUrl": "https://www.speedrun.com/users/Petroesjka"
               },
               {
+                "runner": "Teeejj",
+                "time": "8:48:18",
+                "date": "2026-08-01",
+                "vod": "https://www.youtube.com/watch?v=uNMGKFeAksE",
+                "runnerUrl": "https://www.twitch.tv/teeejj"
+              },
+              {
                 "runner": "Ayymart",
                 "time": "8:49:22",
                 "date": "2021-07-23",
@@ -1358,7 +1411,7 @@
               {
                 "runner": "Nepf",
                 "time": "9:03:44",
-                "date": "2015-12-29",
+                "date": "2014-12-19",
                 "vod": "https://www.twitch.tv/videos/42466349",
                 "runnerUrl": "https://www.twitch.tv/Nepf"
               },
@@ -1483,6 +1536,68 @@
                 "runnerUrl": "https://www.twitch.tv/moutaro"
               },
               {
+                "runner": "イリス＠ゆのはなＲ",
+                "time": "8:52:48",
+                "date": "2015-03-28",
+                "vod": "#"
+              },
+              {
+                "runner": "るしる",
+                "time": "8:52:51",
+                "date": "2013-09-21",
+                "vod": "#"
+              },
+              {
+                "runner": "ゼデベペ",
+                "time": "8:54:23",
+                "date": "2014-07-12",
+                "vod": "#"
+              },
+              {
+                "runner": "Dactyly",
+                "time": "8:55:36",
+                "date": "2024-08-25",
+                "vod": "https://www.youtube.com/watch?v=zPInYUna8WI",
+                "runnerUrl": "https://www.twitch.tv/Dactyly"
+              },
+              {
+                "runner": "セミエル",
+                "time": "8:57:37",
+                "date": "2013-03-15",
+                "vod": "#"
+              },
+              {
+                "runner": "トマトごはん",
+                "time": "8:57:39",
+                "date": "2013-06-12",
+                "vod": "#"
+              },
+              {
+                "runner": "てりぞー",
+                "time": "8:57:44",
+                "date": "2015-09-11",
+                "vod": "#"
+              },
+              {
+                "runner": "ギル",
+                "time": "8:57:47",
+                "date": "2013-12-26",
+                "vod": "#",
+                "runnerUrl": "https://www.twitch.tv/giru2525"
+              },
+              {
+                "runner": "じく",
+                "time": "8:58:42",
+                "date": "2015-09-06",
+                "vod": "#"
+              },
+              {
+                "runner": "おっしー",
+                "time": "8:59:52",
+                "date": "2013-09-14",
+                "vod": "#"
+              },
+              {
                 "runner": "emanon2525",
                 "time": "9:01:15",
                 "date": "2013-04-01",
@@ -1502,13 +1617,6 @@
                 "date": "2016-08-05",
                 "vod": "#",
                 "runnerUrl": "https://www.twitch.tv/tojju"
-              },
-              {
-                "runner": "Dactyly",
-                "time": "8:55:36",
-                "date": "2024-08-25",
-                "vod": "https://www.youtube.com/watch?v=zPInYUna8WI",
-                "runnerUrl": "https://www.twitch.tv/Dactyly"
               }
             ],
             "cutoffs": {}
